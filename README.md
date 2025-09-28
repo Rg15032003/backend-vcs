@@ -1,4 +1,4 @@
-CodeHaven Backend is a lightweight version-control backend that lets developers manage code with Git-like commands (init, add, commit, push, pull) while using Amazon S3 as the remote storage.
+DevTrack is a lightweight version-control backend that lets developers manage code with Git-like commands (init, add, commit, push, pull) while using Amazon S3 as the remote storage.
 
 With CodeHaven, you can:
 
